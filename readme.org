@@ -1,1 +1,1 @@
-[[https://github.com/sidnt/scala-notes/issues][this way please 🚪]]
+[[https://github.com/sidnt/scala-notes/issues][this way please]]
